@@ -1,0 +1,5 @@
+name: MCBukkitPluginTutorial
+version: ${project.version}
+main: indi.goldenwater.mcbukkitplugintutorial.MCBukkitPluginTutorial
+authors: [ Golden_Water ]
+description: A project for tech how to make a plugin base on Minecraft Bukkit API.
